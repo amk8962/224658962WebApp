@@ -472,7 +472,7 @@ img.pull-left {
 	border-top: 11px solid rgba(156, 17, 103, 0.1);
 	border-right: 11px solid rgba(124, 34, 86, 0.1);
 	border-bottom: 11px solid rgba(255, 255, 255, 0.1);
-	border-left: 11px solid #8d278d;
+	border-left: 11px solid #e40ce4;
 	-webkit-animation: load 1.1s infinite linear;
 	animation: load 1.1s infinite linear;
 	display: block;
@@ -594,8 +594,8 @@ input[type="url"]:focus,
 input[type="password"]:focus,
 textarea:focus,
 select:focus {
-	color: #cc005f;
-	border-bottom: 1px solid #FF0077;
+	color: #fc0b9f;
+	border-bottom: 1px solid #c5025d;
 }
 label, legend {
 	font-family: "poppins-bold", sans-serif;
